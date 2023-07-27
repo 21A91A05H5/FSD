@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 20px;
+    background-color: yellowgreen;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    font-weight: bolder;
+    margin: 10px;
+ }
+/* .d{
+    background-color: gray;
+    padding: 10px;
+    margin: 30px;
+} */
+h2{
+    
+}
